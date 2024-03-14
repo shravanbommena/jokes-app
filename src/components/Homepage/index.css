@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+
+.jokes-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.jokes-table th,
+.jokes-table td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
